@@ -4,7 +4,7 @@
 * *
 
 *Available regions:*
-_ _
+* *
 **Poznan, Polska** [ae13.1]
 * *
 **Warsaw, Polska** (soon) [ae13.2]
